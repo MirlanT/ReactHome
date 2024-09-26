@@ -1,0 +1,9 @@
+.profilesBlock{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 400px 1fr;
+}
+.myMessage{
+    padding: 10px;
+    border: 1px solid red;
+}

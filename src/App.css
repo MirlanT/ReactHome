@@ -2,8 +2,12 @@
   display: grid;
   grid-template-areas:
   "header header"
-  "nav main";
+  "nav app_route";
   grid-template-columns: 1fr 3fr;
   grid-template-rows: 60px 1fr ;
   gap: 5px;
+}
+.app_route{
+  grid-area: app_route;
+  background: yellow;
 }

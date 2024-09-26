@@ -1,8 +1,10 @@
 .main{
     grid-area: main;
-    background: blue;
+    /* background: blue; */
   }
+.myPost{
   
+}
 .content{
   color: white;
 }
